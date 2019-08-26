@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/madmozg/Work/git/moonwalk/node_modules/react-native/React/Modules/RCTI18nUtil.h

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A61AF2B-902E-4299-90AA-FD36B4A25103</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A61AF2B-902E-4299-90AA-FD36B4A25103.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>moonwalk project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>moonwalk</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project moonwalk with scheme moonwalk and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588277229.18929803</real>
+			<key>timeStoppedRecording</key>
+			<real>588277230.655146</real>
+			<key>title</key>
+			<string>Building project moonwalk with scheme moonwalk and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A61AF2B-902E-4299-90AA-FD36B4A25103</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
